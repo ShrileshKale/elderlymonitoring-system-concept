@@ -1,0 +1,3 @@
+
+(appliance-on-input appliance1 user1 appliance1)
+(led-on led1 appliance1)
